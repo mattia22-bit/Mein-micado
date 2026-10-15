@@ -1,0 +1,1 @@
+{"name": "Mein Micado", "short_name": "Micado", "start_url": "./index.html", "display": "standalone", "background_color": "#f9fbf8", "theme_color": "#68a96d", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}
